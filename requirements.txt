@@ -4,6 +4,6 @@ pandas
 numpy
 seaborn
 matplotlib
-streamlit
+streamlit>=1.36.0
 joblib
 altair== 4.2.0
