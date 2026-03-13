@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction App
+# Customer Churn Prediction App
 
 ## Overview
 This project focuses on predicting customer churn using machine learning techniques. The goal is to identify customers who are likely to discontinue a service so that businesses can take proactive retention measures.
